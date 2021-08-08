@@ -2,7 +2,7 @@ Bir belediye sikayet sistemi yapiyor olalim.
 
 Iki route iceren iki ekranli bir sistem yapacagiz.
 
-Ilk ekran
+Ilk ekran (default)
 Basvuru olusturma ekrani
 Link:    /create-incident
     Olmasi gereken form:

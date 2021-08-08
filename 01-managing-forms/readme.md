@@ -1,6 +1,7 @@
 [
     Order Form
-        Name, Surname,
+        Name,
+        Surname,
         IBAN,
         Email,
         Phone
